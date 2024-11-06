@@ -10,7 +10,7 @@ namespace StaticExercise
             var fahrenheit = TempConverter.CelsiusToFahrenheit(20); //68
 
             Console.WriteLine("After conversion:");
-            Console.WriteLine($"celcius {celcius}");
+            Console.WriteLine($"celcius {celsius}");
             Console.WriteLine($"fahrenheit {fahrenheit}");
         }
     }
